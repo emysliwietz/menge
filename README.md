@@ -36,8 +36,7 @@ Text provided by https://github.com/renehamburger/
 
 ## Notes and Contents
 
-- I/II Samuel and I/II Kings are named with their English titles despite the fact that in Latin they are respectively I-IV Kings. This is simply because the interface is in English and is supposed to be consistent with `kjv`.
-
+- Books are named by their German full name but use their English abbreviation to be consistent with kjv.
 
 ## Install
 
