@@ -1,25 +1,25 @@
 
 PREFIX = /usr/local
 
-vul: vul.sh vul.awk vul.tsv
-	cat vul.sh > $@
+menge: menge.sh menge.awk menge.tsv
+	cat menge.sh > $@
 	echo 'exit 0' >> $@
 	echo "#EOF" >> $@
-	tar cz vul.awk vul.tsv >> $@
+	tar cz menge.awk menge.tsv >> $@
 	chmod +x $@
 
-test: vul.sh
-	shellcheck -s sh vul.sh
+test: menge.sh
+	shellcheck -s sh menge.sh
 
 clean:
-	rm -f vul
+	rm -f menge
 
-install: vul
+install: menge
 	mkdir -p $(DESTDIR)$(PREFIX)/bin
-	cp -f vul $(DESTDIR)$(PREFIX)/bin
-	chmod 755 $(DESTDIR)$(PREFIX)/bin/vul
+	cp -f menge $(DESTDIR)$(PREFIX)/bin
+	chmod 755 $(DESTDIR)$(PREFIX)/bin/menge
 
 uninstall:
-	rm -f $(DESTDIR)$(PREFIX)/bin/vul
+	rm -f $(DESTDIR)$(PREFIX)/bin/menge
 
 .PHONY: test clean install uninstall

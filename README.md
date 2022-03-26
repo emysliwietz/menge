@@ -1,12 +1,13 @@
-# vul -- Latin Vulgate Bible on the Command Line
+# menge -- German Menge Bible on the Command Line
 
 A command line tool for search and reading the Clementine Vulgate.
 
 Format and original implementation from [bontibon/kjv](https://github.com/bontibon/kjv). Meant to be a companion program.
+Text provided by https://github.com/renehamburger/
 
 ## Usage
 
-    usage: ./vul [flags] [reference...]
+    usage: ./menge [flags] [reference...]
 
       -l      list books
       -W      no line wrap
@@ -40,24 +41,11 @@ Format and original implementation from [bontibon/kjv](https://github.com/bontib
 
 ## Install
 
-Install `vul` by running:
+Install `menge` by running:
 
 ```
-git clone https://github.com/lukesmithxyz/vul.git
-cd vul
+cd menge
 sudo make install
-```
-
-## Arch User Repository
-
-`vul` is also available in the Arch User Repository. `vul-git` in the Arch User Repository is based on `kjv-git` for `kjv`. Tim Cooper wrote the PKGBUILD for `kjv-git`. [Corey Stephan](https://github.com/historical-theology) ported that PKGBUILD as `vul-git`.
-
-https://aur.archlinux.org/packages/vul-git/
-
-For example, a user with `pamac` installed might install `vul` with the following command:
-
-```
-pamac install vul-git
 ```
 
 ## License
