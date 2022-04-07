@@ -145,10 +145,15 @@ def parse_book(to_read):
                 else:
                     a = line.split(" ")[0]
                     if not a.endswith(".") and not a.endswith(")"):
-                        print(line, end="")
-                    pass
+                        # print(line, end="")
+                        pass
         except:
             print(f"Error: {book_name}")
+
+        for i in range(len(new_lines)):
+            new_lines[i] = (
+                new_lines[i].replace("<blockquote>", "").replace("</blockquote>", "")
+            )
 
     with open(
         os.path.join(os.path.dirname(sys.argv[0]), "books/", book_name + ".tsv"), "w"
