@@ -88,11 +88,7 @@ apocrypha = {
 
 
 def is_new_verse(curr_chapter, line):
-    try:
-        return curr_chapter != -1 and line.split(" ")[0].isdigit()
-    except:
-        print("Error at line " + line)
-        return False
+    return curr_chapter != -1 and line.split(" ")[0].isdigit()
 
 
 def parse_book(to_read):
@@ -118,38 +114,41 @@ def parse_book(to_read):
     with open(to_read, "r") as f:
         old_lines = f.readlines()
 
-        for (index, line) in enumerate(old_lines):
-            if line.startswith("Kapitel "):
-                curr_chapter = line.split("Kapitel ")[1].strip()
-            elif is_new_verse(curr_chapter, line):
-                l = line.split(" ")
-                verse_num = l[0]
-                verse = " ".join(l[1:])
-                new_lines.append(
-                    f"{book_name}\t{book_abbrev}\t{book_number}\t{curr_chapter}\t{verse_num}\t{verse}".replace(
-                        "\n", "\r\n"
+        try:
+            for (index, line) in enumerate(old_lines):
+                if line.startswith("Kapitel "):
+                    curr_chapter = line.split("Kapitel ")[1].strip()
+                elif is_new_verse(curr_chapter, line):
+                    l = line.split(" ")
+                    verse_num = l[0]
+                    verse = " ".join(l[1:])
+                    new_lines.append(
+                        f"{book_name}\t{book_abbrev}\t{book_number}\t{curr_chapter}\t{verse_num}\t{verse}".replace(
+                            "\n", "\r\n"
+                        )
                     )
-                )
-                is_text = True
-            elif line.isspace():
-                is_text = False
-            elif curr_chapter != -1 and is_text:
-                last_line = new_lines.pop().replace("\r\n", " ")
-                last_line += line.replace("\n", "\r\n")
-                new_lines.append(last_line)
-            elif (
-                int(curr_chapter) > 1
-                and not line.split(" ")[0].endswith(")")
-                and is_new_verse(curr_chapter, old_lines[index + 1])
-            ):
-                last_line = new_lines.pop().replace("\r\n", " ")
-                last_line += line.replace("\n", "\r\n")
-                new_lines.append(last_line)
-            else:
-                a = line.split(" ")[0]
-                if not a.endswith(".") and not a.endswith(")"):
-                    print(line)
-                pass
+                    is_text = True
+                elif line.isspace():
+                    is_text = False
+                elif curr_chapter != -1 and is_text:
+                    last_line = new_lines.pop().replace("\r\n", " ")
+                    last_line += line.replace("\n", "\r\n")
+                    new_lines.append(last_line)
+                elif (
+                    int(curr_chapter) > 1
+                    and not line.split(" ")[0].endswith(")")
+                    and is_new_verse(curr_chapter, old_lines[index + 1])
+                ):
+                    last_line = new_lines.pop().replace("\r\n", " ")
+                    last_line += line.replace("\n", "\r\n")
+                    new_lines.append(last_line)
+                else:
+                    a = line.split(" ")[0]
+                    if not a.endswith(".") and not a.endswith(")"):
+                        print(line, end="")
+                    pass
+        except:
+            print(f"Error: {book_name}")
 
     with open(
         os.path.join(os.path.dirname(sys.argv[0]), "books/", book_name + ".tsv"), "w"
@@ -161,7 +160,7 @@ if len(sys.argv) == 1:
     print(f"Usage: {sys.argv[0]} {{source_dir}}")
     exit()
 
-for f in os.listdir(sys.argv[1]):
+for f in sorted(os.listdir(sys.argv[1])):
     f = os.path.join(sys.argv[1], f)
     if os.path.isfile(f):
         parse_book(f)

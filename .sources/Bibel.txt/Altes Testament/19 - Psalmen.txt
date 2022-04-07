@@ -2,9 +2,8 @@ DIE PSALMEN
 
 Erstes Buch (Psalm 1-41)
 
-Die zwei Lebenswege
-
 Kapitel 1
+0 Die zwei Lebenswege
 1 Wohl dem, der nicht wandelt
 <blockquote>
 <blockquote>
@@ -46,9 +45,9 @@ doch der Gottlosen Weg führt ins Verderben.<span data-param="f3191_6A" class="f
 </blockquote>
 </blockquote>
 
-Der Sieg Gottes und des von ihm gesalbten Königs über die tobende Völkerwelt
 
 Kapitel 2
+0 Der Sieg Gottes und des von ihm gesalbten Königs über die tobende Völkerwelt
 1 Was soll das Toben der Völker
 <blockquote>
 <blockquote>
@@ -126,9 +125,9 @@ Wohl allen, die bei ihm sich bergen {= Zuflucht suchen}!
 </blockquote>
 </blockquote>
 
-Morgenlied eines Frommen in böser Zeit
 
 Kapitel 3
+0 Morgenlied eines Frommen in böser Zeit
 1 <em>Ein Psalm Davids, als er vor seinem Sohne Absalom floh.</em>
 2 Ach HERR, wie sind doch meine Bedränger so zahlreich,
 <blockquote>
@@ -180,9 +179,9 @@ den Gottlosen die Zähne zerschmettert.
 </blockquote>
 </blockquote>
 
-Abendlied eines Frommen in Drangsalszeit
 
 Kapitel 4
+0 Abendlied eines Frommen in Drangsalszeit
 1 <em>Dem Musikmeister, mit Saitenspiel; ein Psalm von David.</em>
 2 Wenn ich rufe, erhöre mich,
 <blockquote>
@@ -242,9 +241,9 @@ in Sicherheit wohnen.
 </blockquote>
 </blockquote>
 
-Morgengebet im Tempel gegen gottlose Feinde
 
 Kapitel 5
+0 Morgengebet im Tempel gegen gottlose Feinde
 1 <em>Dem Musikmeister, nach (der Singweise = Melodie) »die Erbschaften«; ein Psalm von David.</em>
 2 Vernimm meine Worte {= mein Gebet}, o HERR,
 <blockquote>
@@ -329,9 +328,9 @@ schirmst ihn mit (deiner) Gnade wie mit einem Schilde<span data-param="f3195_13A
 </blockquote>
 </blockquote>
 
-Hilferuf eines an Leib und Seele Schwerkranken (Erster Bußpsalm)
 
 Kapitel 6
+0 Hilferuf eines an Leib und Seele Schwerkranken (Erster Bußpsalm)
 1 *Dem Musikmeister, mit Saitenspiel*<em>, im Basston; ein Psalm von David.</em>
 2 HERR, nicht in deinem Zorne strafe mich
 <blockquote>
@@ -396,9 +395,9 @@ mit Schanden müssen sie abziehn augenblicklich!
 </blockquote>
 </blockquote>
 
-Der Herr als gerechter Richter und als Retter der Bedrängten
 
 Kapitel 7
+0 Der Herr als gerechter Richter und als Retter der Bedrängten
 1 <em>Ein Bittgebet</em> {oder: feierliches Lied}<em> Davids, das er dem Herrn wegen der Worte des Benjaminiten Kusch sang {oder: dichtete}</em>.
 2 HERR, mein Gott, bei dir such’ ich Zuflucht:
 <blockquote>
@@ -508,9 +507,9 @@ und lobsingen dem Namen des HERRN, des Höchsten.
 </blockquote>
 </blockquote>
 
-Des Menschen Niedrigkeit und Hoheit in der Schöpfung
 
 Kapitel 8
+0 Des Menschen Niedrigkeit und Hoheit in der Schöpfung
 1 <em>Dem Musikmeister, nach der Keltertreterweise; ein Psalm von David.</em>
 2 HERR, unser Herrscher, wie herrlich ist
 <blockquote>
@@ -569,9 +568,9 @@ dein Name auf der ganzen Erde!
 </blockquote>
 </blockquote>
 
-Danklied für Gottes Gericht über heidnische Feinde und Bitte um neue Hilfe
 
 Kapitel 9
+0 Danklied für Gottes Gericht über heidnische Feinde und Bitte um neue Hilfe
 1 <em>Dem Musikmeister, nach (der Singweise = Melodie) »stirb für den Sohn!«; ein Psalm von David.</em>
 2 Preisen will ich den HERRN von ganzem Herzen,
 <blockquote>
@@ -694,9 +693,9 @@ Laß die Heiden erkennen, daß Menschen<span data-param="f3199_21A" class="fussn
 </blockquote>
 </blockquote>
 
-Hilferuf gegen gottlose Gewaltmenschen
 
 Kapitel 10
+0 Hilferuf gegen gottlose Gewaltmenschen
 1 Warum, o HERR, stehst du so fern,
 <blockquote>
 <blockquote>
@@ -812,9 +811,9 @@ nicht soll ein Mensch, der zur Erde gehört,<span data-param="f31910_18A" class=
 </blockquote>
 </blockquote>
 
-Der Herr ist treu und gerecht
 
 Kapitel 11
+0 Der Herr ist treu und gerecht
 1 <em>Dem Musikmeister, von David.</em>
 Der HERR ist meine Zuflucht;
 <blockquote>
@@ -864,9 +863,9 @@ die Redlichen werden sein Angesicht schauen.
 </blockquote>
 </blockquote>
 
-Trost der Frommen gegenüber der Gewalt der Lüge
 
 Kapitel 12
+0 Trost der Frommen gegenüber der Gewalt der Lüge
 1 <em>Dem Musikmeister, im Basston; ein Psalm von David.</em>
 2 Hilf doch, o HERR! Denn dahin sind die Frommen {d.h. Gesetzestreuen}
 <blockquote>
@@ -919,9 +918,9 @@ weil Gemeinheit sich bläht inmitten der Menschheit.
 </blockquote>
 </blockquote>
 
-Wie lange noch?
 
 Kapitel 13
+0 Wie lange noch?
 1 <em>Dem Musikmeister; ein Psalm Davids.</em>
 2 Wie lange noch, HERR, willst du mich ganz vergessen,
 <blockquote>
@@ -956,9 +955,9 @@ Singen will ich dem HERRN, daß er Gutes an mir getan!
 </blockquote>
 </blockquote>
 
-Gedanken bei der allgemeinen Verderbtheit der Welt und Bitte um Erlösung
 
 Kapitel 14
+0 Gedanken bei der allgemeinen Verderbtheit der Welt und Bitte um Erlösung
 1 <em>Dem Musikmeister, von David.</em>
 Die Toren sprechen {= denken} in ihrem Herzen:
 <blockquote>
@@ -1012,9 +1011,9 @@ wird Jakob jubeln, Israel sich freuen.
 </blockquote>
 </blockquote>
 
-Wer darf Gast des Herrn sein?
 
 Kapitel 15
+0 Wer darf Gast des Herrn sein?
 1 <em>Ein Psalm von David.</em>
 HERR, wer darf Gast sein in deinem Zelte,
 <blockquote>
@@ -1050,9 +1049,9 @@ wer solches tut, wird ewiglich nicht wanken.
 </blockquote>
 </blockquote>
 
-Gott das höchste, ja einzige Gut der Seinen
 
 Kapitel 16
+0 Gott das höchste, ja einzige Gut der Seinen
 1 <em>Ein Lied von David.</em>
 Behüte mich, Gott, denn bei dir such’ ich Zuflucht!
 2 Ich sage zu Gott: »Mein Allherr bist du,
@@ -1118,9 +1117,9 @@ und Segensgaben<span data-param="f31916_11A" class="fussnote">A</span> in deiner
 </blockquote>
 </blockquote>
 
-Hilferuf eines Bedrängten wider ruchlose Feinde
 
 Kapitel 17
+0 Hilferuf eines Bedrängten wider ruchlose Feinde
 1 <em>Ein Gebet Davids.</em>
 Höre, o HERR, die gerechte Sache, merk’ auf mein lautes Rufen,
 <blockquote>
@@ -1217,9 +1216,9 @@ darf satt mich sehn beim Erwachen an deinem Bilde {oder: Anblick}.
 </blockquote>
 </blockquote>
 
-Davids Dank- und Siegeslied nach Niederwerfung seiner Feinde
 
 Kapitel 18
+0 Davids Dank- und Siegeslied nach Niederwerfung seiner Feinde
 1 <em>Dem Musikmeister; vom Knecht des Herrn, von David, der dieses Lied an den Herrn richtete zu der Zeit, als der Herr ihn aus der Hand aller seiner Feinde, auch aus der Gewalt Sauls errettet hatte. Er betete (damals) so:</em>
 2 Ich liebe dich, HERR, meine Stärke!
 3 Der HERR ist mein Fels, meine Burg und mein Erretter,
@@ -1530,9 +1529,9 @@ an David und seinem Hause ewiglich!
 </blockquote>
 </blockquote>
 
-Lobpreis Gottes des Schöpfers und seines Gesetzes; Bitte um Sündenvergebung und um Heiligung
 
 Kapitel 19
+0 Lobpreis Gottes des Schöpfers und seines Gesetzes; Bitte um Sündenvergebung und um Heiligung
 1 <em>Dem Musikmeister; ein Psalm von David.</em>
 2 Die Himmel verkünden Gottes Herrlichkeit {oder: Ehre},
 <blockquote>
@@ -1632,9 +1631,9 @@ o HERR, mein Fels und mein Erlöser!
 </blockquote>
 </blockquote>
 
-Fürbitte des Volkes für den König beim Auszug des Heeres
 
 Kapitel 20
+0 Fürbitte des Volkes für den König beim Auszug des Heeres
 1 <em>Dem Musikmeister; ein Psalm von David.</em>
 2 Der HERR erhöre dich am Tage der Drangsal,
 <blockquote>
@@ -1693,9 +1692,9 @@ Erhör’ uns, sooft wir (dich) anrufen!<span data-param="f31920_10A" class="fus
 </blockquote>
 </blockquote>
 
-Dankgebet für die dem König von Gott erwiesenen Wohltaten (besonders für den ihm verliehenen Sieg) und Hoffnung neuer Segnungen
 
 Kapitel 21
+0 Dankgebet für die dem König von Gott erwiesenen Wohltaten (besonders für den ihm verliehenen Sieg) und Hoffnung neuer Segnungen
 1 <em>Dem Musikmeister; ein Psalm von David.</em>
 2 O HERR, ob deiner Kraft freut sich der König,
 <blockquote>
@@ -1778,9 +1777,9 @@ wir wollen dein Heldentum besingen und preisen.
 </blockquote>
 </blockquote>
 
-Klage und Hoffnung eines von Gott Verlassenen (Des Heilands Leidenspsalm)
 
 Kapitel 22
+0 Klage und Hoffnung eines von Gott Verlassenen (Des Heilands Leidenspsalm)
 1 <em>Dem Musikmeister, nach (der Singweise = Melodie) »Hirschkuh der Morgenröte«; ein Psalm von David.</em>
 2 Mein Gott, mein Gott, warum hast du mich verlassen? {Mt 27,46; Mk 15,34}
 <blockquote>
@@ -1979,9 +1978,9 @@ dem nachgeborenen Volk, daß Er es vollführt hat.<span data-param="f31922_32A" 
 </blockquote>
 </blockquote>
 
-Der Herr als der gute Hirt und der freundliche Spender von Trost und Sicherheit
 
 Kapitel 23
+0 Der Herr als der gute Hirt und der freundliche Spender von Trost und Sicherheit
 1 <em>Ein Psalm von David.</em>
 Der HERR ist mein Hirt: mir mangelt nichts.
 2 Auf grünen Auen läßt er mich lagern,
@@ -2022,9 +2021,9 @@ für eine lange Reihe von Tagen.<span data-param="f31923_6B" class="fussnote">B<
 </blockquote>
 </blockquote>
 
-Festlied beim Einzug (des Volkes und des Königs der Ehren) in das Heiligtum
 
 Kapitel 24
+0 Festlied beim Einzug (des Volkes und des Königs der Ehren) in das Heiligtum
 1 <em>Von David, ein Psalm.</em>
 Dem HERRN gehört die Erde und ihre Fülle,
 <blockquote>
@@ -2092,9 +2091,9 @@ der ist der König der Herrlichkeit {oder: Ehren}! SELA.
 </blockquote>
 </blockquote>
 
-Gebet um Gottes Schutz, um gnädige Leitung und Vergebung der Sünden
 
 Kapitel 25
+0 Gebet um Gottes Schutz, um gnädige Leitung und Vergebung der Sünden
 1 <em>Von David.</em>
 Zu dir, o HERR, erheb’ ich meine Seele,
 2 mein Gott, auf dich vertraue ich:
@@ -2221,9 +2220,9 @@ denn ich harre deiner, o HERR! –
 </blockquote>
 22 O Gott, erlöse Israel aus allen seinen Nöten!
 
-Hilferuf eines seiner Unschuld sich bewußten Frommen
 
 Kapitel 26
+0 Hilferuf eines seiner Unschuld sich bewußten Frommen
 1 <em>Von David.</em>
 Schaffe mir Recht, o HERR,
 <blockquote>
@@ -2299,9 +2298,9 @@ in Versammlungen will ich preisen den HERRN.
 </blockquote>
 </blockquote>
 
-Freudige Zuversicht auf den Herrn und Bitte um seinen weiteren Schutz
 
 Kapitel 27
+0 Freudige Zuversicht auf den Herrn und Bitte um seinen weiteren Schutz
 1 <em>Von David.</em>
 Der HERR ist mein Licht und mein Heil:
 <blockquote>
@@ -2408,9 +2407,9 @@ und dein Herz sei unverzagt! Ja, harre des HERRN!
 </blockquote>
 </blockquote>
 
-Gebet und Hilfe gegen gottlose Feinde und Dank für die Erhörung
 
 Kapitel 28
+0 Gebet und Hilfe gegen gottlose Feinde und Dank für die Erhörung
 1 <em>Von David.</em>
 Zu dir, HERR, rufe ich:
 <blockquote>
@@ -2475,9 +2474,9 @@ weide sie und trage sie ewiglich!
 </blockquote>
 </blockquote>
 
-Gottes Herrlichkeit im Gewitter
 
 Kapitel 29
+0 Gottes Herrlichkeit im Gewitter
 1 <em>Ein Psalm von David.</em>
 Bringt dar dem HERRN, ihr Gottessöhne {d.h. Engel},
 <blockquote>
@@ -2543,9 +2542,9 @@ der HERR wolle segnen sein Volk mit Frieden {oder: Heil}!
 </blockquote>
 </blockquote>
 
-Danklied eines aus Todesnot Geretteten
 
 Kapitel 30
+0 Danklied eines aus Todesnot Geretteten
 1 *Ein Psalm, ein Lied zur Tempelweihe*<em>, von David.</em>
 2 Ich will dich erheben, o HERR, denn du hast aus der Tiefe mich gezogen
 <blockquote>
@@ -2626,9 +2625,9 @@ o HERR, mein Gott, in Ewigkeit will ich dir danken {oder: dich preisen}!
 </blockquote>
 </blockquote>
 
-Zuversichtliches Gebet in schwerer Not
 
 Kapitel 31
+0 Zuversichtliches Gebet in schwerer Not
 1 <em>Dem Musikmeister; ein Psalm von David.</em>
 2 Bei dir, HERR, suche ich Zuflucht:
 <blockquote>
@@ -2794,9 +2793,9 @@ ihr alle, die ihr harret des HERRN!
 </blockquote>
 </blockquote>
 
-Segen der Buße und Seligkeit der Sündenvergebung (Zweiter Bußpsalm)
 
 Kapitel 32
+0 Segen der Buße und Seligkeit der Sündenvergebung (Zweiter Bußpsalm)
 1 <em>Von David; ein Lehrgedicht {oder: eine Unterweisung, eine Betrachtung}</em>.
 Wohl dem {vgl. 1,1}, dessen Missetat vergeben
 <blockquote>
@@ -2872,9 +2871,9 @@ und jubelt, ihr redlich Gesinnten alle!
 </blockquote>
 </blockquote>
 
-Aufforderung zum Lobe von Gottes Allmacht und Gnade
 
 Kapitel 33
+0 Aufforderung zum Lobe von Gottes Allmacht und Gnade
 1 Jubelt, ihr Gerechten, über den HERRN!
 <blockquote>
 <blockquote>
@@ -3008,9 +3007,9 @@ gleichwie wir auf dich geharrt haben {oder: deiner harren}!
 </blockquote>
 </blockquote>
 
-Gott hilft den Seinen aus aller Not
 
 Kapitel 34
+0 Gott hilft den Seinen aus aller Not
 1 <em>Von David, als er sich vor Abimelech</em> {=Achis}<em> irrsinnig stellte</em> {1.Sam 21,11-16} <em>und dieser ihn von sich trieb, so daß er von dannen ging.</em>
 2 Ich will den HERRN allzeit preisen,
 <blockquote>
@@ -3145,9 +3144,9 @@ und alle, die zu ihm sich flüchten, brauchen nicht zu büßen.
 </blockquote>
 </blockquote>
 
-Hilferuf eines Dulders gegen treulose und undankbare Feinde
 
 Kapitel 35
+0 Hilferuf eines Dulders gegen treulose und undankbare Feinde
 1 <em>Von David.</em>
 Streite, HERR, mit denen, die mich bestreiten,
 <blockquote>
@@ -3330,9 +3329,9 @@ dem das Heil seines Knechtes am Herzen liegt!«
 </blockquote>
 </blockquote>
 
-Das heillose Treiben der Gottlosen und die Segensfülle der Gottesgemeinschaft
 
 Kapitel 36
+0 Das heillose Treiben der Gottlosen und die Segensfülle der Gottesgemeinschaft
 1 <em>Dem Musikmeister; vom Knechte des Herrn, von David.</em>
 2 Eingebung der Sünde beherrscht den Frevler,
 <blockquote>
@@ -3410,9 +3409,9 @@ niedergestürzt und können nicht wieder aufstehn.
 </blockquote>
 </blockquote>
 
-Das Scheinglück der Frevler (= Gottlosen) darf die Gerechten {= Frommen}
 
 Kapitel 37
+0 Das Scheinglück der Frevler (= Gottlosen) darf die Gerechten {= Frommen}
 1 <em>Von David.</em>
 Entrüste dich nicht über die Bösen
 <blockquote>
@@ -3664,9 +3663,9 @@ weil auf ihn sie ihr Vertrauen setzen.
 </blockquote>
 </blockquote>
 
-Bußgebet und Hilferuf in schwerer Krankheit und Seelennot (Dritter Bußpsalm)
 
 Kapitel 38
+0 Bußgebet und Hilferuf in schwerer Krankheit und Seelennot (Dritter Bußpsalm)
 1 <em>Ein Psalm von David, bei Darbringung des Duftopfers.</em>
 2 HERR, nicht in deinem Zorne strafe mich,
 <blockquote>
@@ -3802,9 +3801,9 @@ o Allherr, meine Rettung!
 </blockquote>
 </blockquote>
 
-Klage und Bitte eines schwer Angefochtenen
 
 Kapitel 39
+0 Klage und Bitte eines schwer Angefochtenen
 1 <em>Dem Musikmeister Jeduthun; ein Psalm von David.</em>
 2 Ich dachte: »Achten will ich auf meine Wege {= mein Verhalten},
 <blockquote>
@@ -3895,9 +3894,9 @@ bevor ich dahinfahre und nicht mehr bin!
 </blockquote>
 </blockquote>
 
-Dank- und Bittgebet
 
 Kapitel 40
+0 Dank- und Bittgebet
 1 <em>Dem Musikmeister; von David ein Psalm.</em>
 2 Geduldig hatte ich des HERRN geharrt:
 <blockquote>
@@ -4019,9 +4018,9 @@ mein Gott, säume nicht!
 </blockquote>
 </blockquote>
 
-Klage eines Kranken über boshafte Feinde und treulose Freunde
 
 Kapitel 41
+0 Klage eines Kranken über boshafte Feinde und treulose Freunde
 1 <em>Dem Musikmeister; ein Psalm von David.</em>
 2 Wohl dem, der des Schwachen {oder: Geringen} sich annimmt:
 <blockquote>
@@ -4107,9 +4106,9 @@ von Ewigkeit zu Ewigkeit! Amen, ja Amen!
 
 Zweites Buch (Psalm 42-72)
 
-Sehnsucht nach Gott und seinem Heiligtum auf Zion
 
 Kapitel 42
+0 Sehnsucht nach Gott und seinem Heiligtum auf Zion
 1 <em>Dem Musikmeister; ein Lehrgedicht</em> {vgl. 32,1} <em>der Korahiten</em> {vgl. 4.Mose 26,11}.
 2 Wie der Hirsch lechzt nach Wasserbächen,
 <blockquote>
@@ -4194,7 +4193,6 @@ und stürmst so ruhlos in mir?
 Harre auf Gott! Denn ich werde ihm noch danken,
 ihm, meines Angesichts Hilfe und meinem Gott.
 </blockquote>
-</blockquote>
 
 Kapitel 43
 1 Schaffe mir Recht, o Gott, und führe meinen Rechtsstreit
@@ -4238,9 +4236,9 @@ ihm, meines Angesichts Hilfe und meinem Gott.
 </blockquote>
 </blockquote>
 
-Klagelied und Hilferuf des gesetzestreuen, aber von seinen Feinden besiegten und mißhandelten Volkes
 
 Kapitel 44
+0 Klagelied und Hilferuf des gesetzestreuen, aber von seinen Feinden besiegten und mißhandelten Volkes
 1 <em>Dem Musikmeister; von den Korahiten</em> {42,1}<em> ein Lehrgedicht</em> {vgl. 32,1}.
 2 O Gott, mit eignen Ohren haben wir’s gehört,
 <blockquote>
@@ -4405,9 +4403,9 @@ und erlöse uns um deiner Gnade willen!
 </blockquote>
 </blockquote>
 
-Festlied zur Vermählung des Königs
 
 Kapitel 45
+0 Festlied zur Vermählung des Königs
 1 <em>Dem Musikmeister, nach (der Singweise = Melodie) »Lilien«; von den Korahiten</em> {42,1}<em> ein Lehrgedicht</em> {vgl. 32,1}, <em>ein Liebeslied {oder: ein Lied von lieblichen Dingen?</em>}.
 2 Das Herz wallt mir auf von lieblichen Worten:
 <blockquote>
@@ -4519,9 +4517,9 @@ bei allen kommenden Geschlechtern; darum werden die Völker dich preisen immer u
 </blockquote>
 </blockquote>
 
-Ein’ feste Burg ist unser Gott
 
 Kapitel 46
+0 Ein’ feste Burg ist unser Gott
 1 <em>Dem Musikmeister, von den Korahiten</em> {42,1}<em>, im Bass-Stimmsatz</em>, ein Lied.
 2 Gott ist uns Zuflucht und Stärke,
 <blockquote>
@@ -4593,9 +4591,9 @@ ein’ feste Burg ist uns der Gott Jakobs! SELA.
 </blockquote>
 </blockquote>
 
-Israels Gott als König aller Völker
 
 Kapitel 47
+0 Israels Gott als König aller Völker
 1 <em>Dem Musikmeister, von den Korahiten</em> {42,1}<em>, ein Psalm.</em>
 2 Ihr Völker alle, klatscht in die Hände,
 <blockquote>
@@ -4654,9 +4652,9 @@ hoch erhaben steht er da.
 </blockquote>
 </blockquote>
 
-Der Festpilger Lobpreis auf Zion, die unbesiegte Gottesstadt
 
 Kapitel 48
+0 Der Festpilger Lobpreis auf Zion, die unbesiegte Gottesstadt
 1 <em>Ein Lied, ein Psalm von den Korahiten</em> {42,1}<em>.</em>
 2 Groß ist der HERR und hoch zu preisen
 <blockquote>
@@ -4747,9 +4745,9 @@ immer und ewig wird er uns führen [bis zum Tode].
 </blockquote>
 </blockquote>
 
-Vergänglichkeit des äußeren Glücks der Gottlosen
 
 Kapitel 49
+0 Vergänglichkeit des äußeren Glücks der Gottlosen
 1 <em>Dem Musikmeister, von den Korahiten</em> {42,1}<em>, ein Psalm.</em>
 2 Höret dies, ihr Völker alle,
 <blockquote>
@@ -4876,9 +4874,9 @@ gleicht den Tieren, die abgetan werden.
 </blockquote>
 </blockquote>
 
-Der rechte Gottesdienst
 
 Kapitel 50
+0 Der rechte Gottesdienst
 1 <em>Ein Psalm von Asaph</em>.
 Der Gott der Götter, der HERR, redet und ruft der Erde zu
 <blockquote>
@@ -5023,9 +5021,9 @@ und wer unsträflich wandelt, den lasse ich schauen Gottes Heil.«
 </blockquote>
 </blockquote>
 
-Davids Bußgebet (Vierter Bußpsalm)
 
 Kapitel 51
+0 Davids Bußgebet (Vierter Bußpsalm)
 1 <em>Dem Musikmeister; ein Psalm von David,</em>
 2 <em>als der Prophet Nathan zu ihm kam, nachdem er sich mit Bathseba vergangen hatte</em> {2.Sam 12}.
 3 Sei mir gnädig, o Gott, nach deiner Güte!
@@ -5147,9 +5145,9 @@ dann wird man Farren opfern auf deinem Altar.<span data-param="f31951_21A" class
 </blockquote>
 </blockquote>
 
-Klage über einen gewalttätigen Feind und Frohlocken über die göttliche Hilfe
 
 Kapitel 52
+0 Klage über einen gewalttätigen Feind und Frohlocken über die göttliche Hilfe
 1 <em>Dem Musikmeister; ein Lehrgedicht</em> {32,1}<em> Davids,</em>
 2 <em>als der Edomiter Doeg kam und dem Saul die Meldung brachte, David sei in das Haus Ahimelechs gekommen</em> {1.Sam 21-22}.
 3 Was rühmst du dich der Bosheit, du Gewaltmensch?
@@ -5210,9 +5208,9 @@ will rühmen deinen Namen, daß er so herrlich ist, vor deinen Frommen.
 </blockquote>
 </blockquote>
 
-Gedanken bei der allgemeinen Verderbtheit der Welt und Bitte um Erlösung
 
 Kapitel 53
+0 Gedanken bei der allgemeinen Verderbtheit der Welt und Bitte um Erlösung
 1 <em>Dem Musikmeister, nach (der Singweise = Melodie) »die Krankheit«; ein Lehrgedicht</em> {vgl. 32,1} <em>von David.</em>
 2 Die Toren sprechen {= denken} in ihrem Herzen:
 <blockquote>
@@ -5260,9 +5258,9 @@ wird Jakob jubeln, Israel sich freuen!
 </blockquote>
 </blockquote>
 
-Hilferuf gegen gottlose Feinde
 
 Kapitel 54
+0 Hilferuf gegen gottlose Feinde
 1 <em>Dem Musikmeister, mit Saitenspiel; ein Lehrgedicht</em> {vgl. 32,1}<em> Davids,</em>
 2 <em>als die Siphiter kamen und zu Saul sagten: »Weißt du nicht, daß David sich bei uns verborgen hält?«</em> {1.Sam 23,19.26}.
 3 Hilf mir, o Gott, durch deinen Namen
@@ -5309,9 +5307,9 @@ und an meinen Feinden hat mein Auge sich geweidet.
 </blockquote>
 </blockquote>
 
-Gebet gegen gottlose Feinde und Klage über einen treulosen Freund
 
 Kapitel 55
+0 Gebet gegen gottlose Feinde und Klage über einen treulosen Freund
 1 <em>Dem Musikmeister, mit Saitenspiel, ein Lehrgedicht</em> {vgl. 32,1}<em> von David.</em>
 2 Vernimm, o Gott, mein Gebet
 <blockquote>
@@ -5466,9 +5464,9 @@ werden ihre Tage nicht auf die Hälfte bringen. Ich aber vertraue auf dich!
 </blockquote>
 </blockquote>
 
-Getroster Mut in schwerer Bedrängnis
 
 Kapitel 56
+0 Getroster Mut in schwerer Bedrängnis
 1 <em>Dem Musikmeister, nach (der Singweise = Melodie) »Die stumme Taube der Ferne«; ein Lied</em> {vgl. 16,1} <em>von David, als die Philister ihn in Gath festgenommen hatten</em> {1.Sam 21,11-16}.
 2 Sei mir gnädig, o Gott, denn Menschen stellen mir nach!
 <blockquote>
@@ -5549,9 +5547,9 @@ im Lichte der Lebenden {oder: des Lebens}.
 </blockquote>
 </blockquote>
 
-Zuversicht zu Gott inmitten von Feinden
 
 Kapitel 57
+0 Zuversicht zu Gott inmitten von Feinden
 1 <em>Dem Musikmeister, nach (der Singweise = Melodie) »Vertilge nicht«; ein Lied</em> {vgl. 16,1} <em>Davids, als er vor Saul in die Höhle floh</em> {1.Sam 22,1-2; 24}.
 2 Erbarme dich meiner, o Gott, erbarme dich meiner!
 <blockquote>
@@ -5627,9 +5625,9 @@ und bis an die Wolken geht deine Treue.
 </blockquote>
 </blockquote>
 
-Gegen ungerechte Richter (oder Herrscher)
 
 Kapitel 58
+0 Gegen ungerechte Richter (oder Herrscher)
 1 <em>Dem Musikmeister, nach (der Singweise = Melodie) »Vertilge nicht«; von David ein Lied</em> {vgl. 16,1}.
 2 Sprecht in Wahrheit ihr Recht, ihr Götter<span class="auslegung"> (= ihr Gewaltigen, ihr Machthaber
 auf Erden; vgl. 82,1)</span>?
@@ -5700,9 +5698,9 @@ Fürwahr, noch gibt’s einen Gott, der auf Erden richtet!«
 </blockquote>
 </blockquote>
 
-Hilferuf eines von gewalttätigen Feinden Bedrängten
 
 Kapitel 59
+0 Hilferuf eines von gewalttätigen Feinden Bedrängten
 1 <em>Dem Musikmeister, nach (der Singweise = Melodie) »Vertilge nicht«; ein Lied</em> {vgl. 16,1} <em>von David, als Saul das Haus bewachen ließ, um ihn zu töten</em> {1.Sam 19,11-17}.
 2 Rette mich von meinen Feinden, mein Gott!
 <blockquote>
@@ -5816,9 +5814,9 @@ der Gott, der mir Gnade erweist.
 </blockquote>
 </blockquote>
 
-Gebet nach schwerer Niederlage im Kriege
 
 Kapitel 60
+0 Gebet nach schwerer Niederlage im Kriege
 1 <em>Dem Musikmeister, nach (der Singweise = Melodie) »Lilie des Zeugnisses«; ein Lied</em> {vgl. 16,1} <em>Davids zum Lehren,</em>
 2 <em>als er mit den Syrern von Mesopotamien und mit den Syrern von Zoba Krieg führte und Joab zurückkehrte und die Edomiter im Salztal schlug, zwölftausend Mann.</em> {2.Sam 8,3-14; 1.Chr 18,3-13}.
 3 Gott, du hast uns verworfen, uns zersprengt,
@@ -5897,9 +5895,9 @@ und er wird unsre Bedränger zertreten.
 </blockquote>
 </blockquote>
 
-Fürbitte für den König aus der Ferne
 
 Kapitel 61
+0 Fürbitte für den König aus der Ferne
 1 <em>Dem Musikmeister über das Saitenspiel; von David.</em>
 2 Höre, o Gott, mein lautes Rufen,
 <blockquote>
@@ -5953,9 +5951,9 @@ auf daß {oder: indem} ich meine Gelübde bezahle {= erfülle} Tag für Tag.
 </blockquote>
 </blockquote>
 
-Stille in Gott! Nichtigkeit der Menschen
 
 Kapitel 62
+0 Stille in Gott! Nichtigkeit der Menschen
 1 <em>Dem Musikmeister über die Jeduthuniden; ein Psalm Davids.</em>
 2 Nur (im Aufblick) zu Gott ist meine Seele still:
 <blockquote>
@@ -6033,9 +6031,9 @@ ja, du vergiltst einem jeden nach seinem Tun.
 </blockquote>
 </blockquote>
 
-Sehnsucht nach Gott, dem Labsal der Seele und höchsten Gut
 
 Kapitel 63
+0 Sehnsucht nach Gott, dem Labsal der Seele und höchsten Gut
 1 <em>Ein Psalm Davids, als er in der Wüste Juda war</em> {2.Sam 15-17}.
 2 O Gott, du bist mein Gott: dich suche ich,
 <blockquote>
@@ -6107,9 +6105,9 @@ den Lügnern dagegen wird der Mund gestopft werden.
 </blockquote>
 </blockquote>
 
-Bitte um Schutz gegen böswillige Feinde
 
 Kapitel 64
+0 Bitte um Schutz gegen böswillige Feinde
 1 <em>Dem Musikmeister, ein Psalm Davids.</em>
 2 Höre, o Gott, meine Stimme, wenn ich klage,
 <blockquote>
@@ -6176,9 +6174,9 @@ und alle redlichen Herzen preisen sich glücklich.
 </blockquote>
 </blockquote>
 
-Danklied für geistliche Wohltaten Gottes und für Erntesegen
 
 Kapitel 65
+0 Danklied für geistliche Wohltaten Gottes und für Erntesegen
 1 <em>Dem Musikmeister; ein Psalm Davids, ein Lied.</em>
 2 Dir gebührt Lobpreis, o Gott, in Zion,
 <blockquote>
@@ -6266,9 +6264,9 @@ man jauchzt einander zu und singt.
 </blockquote>
 </blockquote>
 
-Danklied des Volkes für wunderbare Führung und Errettung
 
 Kapitel 66
+0 Danklied des Volkes für wunderbare Führung und Errettung
 1 <em>Dem Musikmeister; ein Lied, ein Psalm.</em>
 Jauchzet Gott, ihr Lande {= Erdbewohner} alle!
 2 Lobsinget der Ehre seines Namens,
@@ -6390,9 +6388,9 @@ und seine Gnade mir nicht versagt hat!
 </blockquote>
 </blockquote>
 
-Gott segne Israel! (Erntedanklied)
 
 Kapitel 67
+0 Gott segne Israel! (Erntedanklied)
 1 <em>Dem Musikmeister, mit Saitenspiel; ein Psalm, ein Lied.</em>
 2 Gott sei uns gnädig und segne uns!
 <blockquote>
@@ -6438,9 +6436,9 @@ und fürchten müssen ihn alle Enden der Erde!
 </blockquote>
 </blockquote>
 
-Der Sieg des Gottes Israels über seine Feinde
 
 Kapitel 68
+0 Der Sieg des Gottes Israels über seine Feinde
 1 <em>Dem Musikmeister, von David ein Psalm, ein Lied.</em>
 2 Gott steht auf: da zerstieben seine Feinde,
 <blockquote>
@@ -6668,9 +6666,9 @@ gepriesen sei Gott!
 </blockquote>
 </blockquote>
 
-Gebet eines Frommen um Errettung aus Schmach und schwerer Bedrängnis
 
 Kapitel 69
+0 Gebet eines Frommen um Errettung aus Schmach und schwerer Bedrängnis
 1 <em>Dem Musikmeister, nach (der Singweise = Melodie) »Lilien«, von David.</em>
 2 Hilf mir, o Gott,
 <blockquote>
@@ -6903,9 +6901,9 @@ und die seinen Namen lieben, werden darin wohnen.
 </blockquote>
 </blockquote>
 
-Bitte um Hilfe in Verfolgung
 
 Kapitel 70
+0 Bitte um Hilfe in Verfolgung
 1 <em>Dem Musikmeister, von David; bei Darbringung des Duftopfers</em> {vgl. 38,1}.
 2 Gott, eile zu meiner Rettung,
 <blockquote>
@@ -6944,9 +6942,9 @@ o HERR, säume nicht!
 </blockquote>
 </blockquote>
 
-Verlaß mich nicht im Alter!
 
 Kapitel 71
+0 Verlaß mich nicht im Alter!
 1 Bei dir, HERR, suche ich Zuflucht:
 <blockquote>
 <blockquote>
@@ -7098,9 +7096,9 @@ denn enttäuscht, denn schamrot sind geworden, die mein Unglück suchten.
 </blockquote>
 </blockquote>
 
-Segenswünsche für den König
 
 Kapitel 72
+0 Segenswünsche für den König
 1 <em>Von Salomo.</em>
 Gott, dein richterlich Walten verleihe dem König
 <blockquote>
@@ -7228,9 +7226,9 @@ Amen, ja Amen! –
 
 Drittes Buch (Psalm 73-89)
 
-Das gottgewirkte »Dennoch«
 
 Kapitel 73
+0 Das gottgewirkte »Dennoch«
 1 <em>Ein Psalm von Asaph</em> {vgl. Ps 50}.
 Dennoch ist Gott voll Güte gegen den Frommen,
 <blockquote>
@@ -7402,9 +7400,9 @@ um alle deine Werke {oder: Taten} zu verkünden.
 </blockquote>
 </blockquote>
 
-Klage der Gemeinde über die Verwüstung des Tempels und Bitte um Hilfe
 
 Kapitel 74
+0 Klage der Gemeinde über die Verwüstung des Tempels und Bitte um Hilfe
 1 <em>Ein Lehrgedicht</em> {vgl. 32,1} <em>von Asaph</em> {vgl. Ps 50}.
 Warum hast du uns, o Gott, für immer verworfen,
 <blockquote>
@@ -7546,9 +7544,9 @@ das Toben deiner Gegner, das allzeit aufsteigt!
 </blockquote>
 </blockquote>
 
-Gott der gerechte Weltrichter
 
 Kapitel 75
+0 Gott der gerechte Weltrichter
 1 <em>Dem Musikmeister, nach (der Singweise = Melodie) »Vertilge nicht«; ein Psalm von Asaph</em> {vgl. Ps 50}, <em>ein Lied.</em>
 2 Wir preisen dich, Gott, wir preisen!
 <blockquote>
@@ -7613,9 +7611,9 @@ doch die Hörner der Gerechten sollen erhöht sein {= hoch ragen}.
 </blockquote>
 </blockquote>
 
-Israels Siegeslied zum Lobpreis Gottes
 
 Kapitel 76
+0 Israels Siegeslied zum Lobpreis Gottes
 1 <em>Dem Musikmeister, mit Saitenspiel; ein Psalm von Asaph</em> {vgl. Ps 50}, <em>ein Lied.</em>
 2 Allbekannt ist Gott in Juda,
 <blockquote>
@@ -7692,9 +7690,9 @@ und furchtbar ist den Königen der Erde.
 </blockquote>
 </blockquote>
 
-Erinnerungen in leidvoller Zeit an Gottes frühere Führungen und Klage über die Änderung des göttlichen Verhaltens gegen sein Volk
 
 Kapitel 77
+0 Erinnerungen in leidvoller Zeit an Gottes frühere Führungen und Klage über die Änderung des göttlichen Verhaltens gegen sein Volk
 1 <em>Dem Musikmeister über die Jeduthuniden</em> {vgl. 62,1}; <em>von Asaph ein Psalm.</em>
 2 Laut ruf’ ich zu Gott, ja ich will schreien,
 <blockquote>
@@ -7823,9 +7821,9 @@ unter Leitung von Mose und Aaron.
 </blockquote>
 </blockquote>
 
-Warnender Rückblick auf Israels wiederholten Ungehorsam
 
 Kapitel 78
+0 Warnender Rückblick auf Israels wiederholten Ungehorsam
 1 <em>Ein Lehrgedicht</em> {vgl. 32,1} <em>von Asaph</em> {vgl. 50,1}.
 Gib acht, mein Volk, auf meine Belehrung,
 <blockquote>
@@ -8278,9 +8276,9 @@ und leitete sie mit kundiger Hand.
 </blockquote>
 </blockquote>
 
-Klagelied des Gottesvolkes über die Verwüstung Jerusalems
 
 Kapitel 79
+0 Klagelied des Gottesvolkes über die Verwüstung Jerusalems
 1 <em>Ein Psalm von Asaph</em> {vgl. 50,1}.
 O Gott, in dein Eigentum sind Heiden eingedrungen,
 <blockquote>
@@ -8369,9 +8367,9 @@ von Geschlecht zu Geschlecht verkünden deinen Ruhm!
 </blockquote>
 </blockquote>
 
-Gebet um Wiederherstellung Israels, des von Gott gepflanzten Weinstocks
 
 Kapitel 80
+0 Gebet um Wiederherstellung Israels, des von Gott gepflanzten Weinstocks
 1 <em>Dem Musikmeister, nach (der Singweise = Melodie) »Lilien(rein) ist das Zeugnis«; von Asaph</em> {vgl. 50,1} <em>ein Psalm.</em>
 2 O Hirte Israels, merk auf,
 <blockquote>
@@ -8491,9 +8489,9 @@ laß dein Angesicht leuchten, damit uns Rettung widerfährt!
 </blockquote>
 </blockquote>
 
-Festlied (am Passhafest?) mit Bußrede
 
 Kapitel 81
+0 Festlied (am Passhafest?) mit Bußrede
 1 <em>Dem Musikmeister, nach der Keltertreterweise; von Asaph</em> {vgl. 50,1}.
 2 Singt jubelnd dem Gott, der unsre Stärke ist,
 <blockquote>
@@ -8595,9 +8593,9 @@ dich sättigen aus dem Felsen mit Honig.« {vgl. 5.Mose 32,13-14}
 </blockquote>
 </blockquote>
 
-Gottes Gericht über ungerechte Richter (d.h. pflichtvergessene Gewalthaber)
 
 Kapitel 82
+0 Gottes Gericht über ungerechte Richter (d.h. pflichtvergessene Gewalthaber)
 1 <em>Ein Psalm Asaphs</em> {vgl. 50,1}.
 Gott steht da in der Gottesversammlung,
 <blockquote>
@@ -8649,9 +8647,9 @@ Denn du bist der Erbherr über alle Völker.<span data-param="f31982_8A" class="
 </blockquote>
 </blockquote>
 
-Feinde ringsum! (Gebet des Volkes in Kriegsnot)
 
 Kapitel 83
+0 Feinde ringsum! (Gebet des Volkes in Kriegsnot)
 1 <em>Ein Lied, ein Psalm Asaphs</em> {vgl. 50,1}.
 2 O Gott, halte dich nicht zurück,
 <blockquote>
@@ -8762,9 +8760,9 @@ du allein der Höchste bist über die ganze Erde.
 </blockquote>
 </blockquote>
 
-Sehnsucht nach dem Hause Gottes (ein Pilgerlied?)
 
 Kapitel 84
+0 Sehnsucht nach dem Hause Gottes (ein Pilgerlied?)
 1 <em>Dem Musikmeister, nach der Keltertreterweise; von den Korahiten ein Psalm.</em>
 2 Wie lieblich ist deine Wohnstatt {43,3},
 <blockquote>
@@ -8847,9 +8845,9 @@ wohl dem Menschen, der dir vertraut!
 </blockquote>
 </blockquote>
 
-Israels Gebet um neue Gnade und die Segensverheißung Gottes
 
 Kapitel 85
+0 Israels Gebet um neue Gnade und die Segensverheißung Gottes
 1 <em>Dem Musikmeister; von den Korahiten ein Psalm.</em>
 2 Du hast zwar, HERR, deinem Lande Gnade gewährt,
 <blockquote>
@@ -8932,9 +8930,9 @@ und achten auf den Weg seiner Schritte.<span data-param="f31985_14A" class="fuss
 </blockquote>
 </blockquote>
 
-Gebet eines Frommen in feindlicher Bedrängnis
 
 Kapitel 86
+0 Gebet eines Frommen in feindlicher Bedrängnis
 1 <em>Ein Gebet Davids.</em>
 Neige, o HERR, dein Ohr, erhöre mich,
 <blockquote>
@@ -9045,9 +9043,9 @@ weil du, o HERR, mein Helfer und Tröster gewesen!
 </blockquote>
 </blockquote>
 
-Zion die gottgeliebte Mutterstadt der Völker
 
 Kapitel 87
+0 Zion die gottgeliebte Mutterstadt der Völker
 1 <em>Von den Korahiten ein Psalm, ein Lied.</em>
 <blockquote>
 <blockquote>
@@ -9087,9 +9085,9 @@ und er selbst, der Höchste, macht es stark {oder: hat es gegründet}.«
 </blockquote>
 </blockquote>
 
-Hoffnungslose Klage eines schwerkranken Dulders
 
 Kapitel 88
+0 Hoffnungslose Klage eines schwerkranken Dulders
 1 <em>Ein Lied, ein Psalm von den Korahiten; dem Musikmeister, nach (der Singweise = Melodie) »die Krankheit«; ein Lehrgedicht</em> {vgl. 32,1} <em>von Heman, dem Esrahiten.</em>
 2 O HERR, du Gott meines Heils,
 <blockquote>
@@ -9204,9 +9202,9 @@ nur die Finsternis ist mir vertraut (geblieben).
 </blockquote>
 </blockquote>
 
-Wo bleiben die dem Davidhause gegebenen Gnadenverheißungen Gottes?
 
 Kapitel 89
+0 Wo bleiben die dem Davidhause gegebenen Gnadenverheißungen Gottes?
 1 <em>Ein Lehrgedicht</em> {vgl. 32,1} <em>von Ethan, dem Esrahiten.</em>
 2 Die Gnadenerweise des HERRN will ich allzeit besingen,
 <blockquote>
@@ -9527,9 +9525,9 @@ deines Gesalbten!
 
 Viertes Buch (Psalm 90-106)
 
-Der ewige Gott die Zuflucht der vergänglichen Menschen
 
 Kapitel 90
+0 Der ewige Gott die Zuflucht der vergänglichen Menschen
 1 <em>Ein Gebet Moses, des Mannes Gottes.</em>
 O Allherr, eine Zuflucht bist du uns gewesen
 <blockquote>
@@ -9639,9 +9637,9 @@ Ja, das Werk unsrer Hände wollest du segnen!
 </blockquote>
 </blockquote>
 
-Unter der Obhut des Höchsten
 
 Kapitel 91
+0 Unter der Obhut des Höchsten
 1 Wer da wohnt im Schirm des Höchsten
 <blockquote>
 <blockquote>
@@ -9742,9 +9740,9 @@ und lasse ihn schauen mein Heil.«
 </blockquote>
 </blockquote>
 
-Loblied auf das gerechte Walten Gottes
 
 Kapitel 92
+0 Loblied auf das gerechte Walten Gottes
 1 <em>Ein Psalm; ein Lied für den Sabbattag.</em>
 2 Köstlich ist’s, dem HERRN zu danken,
 <blockquote>
@@ -9835,9 +9833,9 @@ mein Fels, an dem kein Unrecht haftet.
 </blockquote>
 </blockquote>
 
-Die Herrlichkeit Gottes, des ewigen Weltenkönigs
 
 Kapitel 93
+0 Die Herrlichkeit Gottes, des ewigen Weltenkönigs
 1 Der HERR ist König {vgl. 96,10}! Er hat sich gekleidet in Hoheit {= Majestät};
 <blockquote>
 <blockquote>
@@ -9872,9 +9870,9 @@ o HERR, für die Dauer der Zeiten.
 </blockquote>
 </blockquote>
 
-Bitte um Rache gegen die gottlosen Unterdrücker des Volkes Gottes
 
 Kapitel 94
+0 Bitte um Rache gegen die gottlosen Unterdrücker des Volkes Gottes
 1 Du Gott der Rache, o HERR,
 <blockquote>
 <blockquote>
@@ -10015,9 +10013,9 @@ ja vertilgen wird sie der HERR, unser Gott.
 </blockquote>
 </blockquote>
 
-Lobpreis Gottes beim Einzug in den Tempel und Bußrede
 
 Kapitel 95
+0 Lobpreis Gottes beim Einzug in den Tempel und Bußrede
 1 Kommt, laßt uns dem HERRN zujubeln,
 <blockquote>
 <blockquote>
@@ -10087,9 +10085,9 @@ sie aber wollten von meinen Wegen nichts wissen.
 </blockquote>
 </blockquote>
 
-Lobpreis Gottes als des Weltherrschers in der Endzeit
 
 Kapitel 96
+0 Lobpreis Gottes als des Weltherrschers in der Endzeit
 1 Singet dem HERRN ein neues Lied,
 <blockquote>
 <blockquote>
@@ -10172,9 +10170,9 @@ und die Völker mit seiner Treue.
 </blockquote>
 </blockquote>
 
-Gottes Regierungsantritt und Königtum in der Endzeit
 
 Kapitel 97
+0 Gottes Regierungsantritt und Königtum in der Endzeit
 1 Der HERR ist König {vgl. 96,10}! Des juble die Erde,
 <blockquote>
 <blockquote>
@@ -10251,9 +10249,9 @@ und preist seinen heiligen Namen!
 </blockquote>
 </blockquote>
 
-Lobpreis Gottes als des Königs und gerechten Weltenrichters
 
 Kapitel 98
+0 Lobpreis Gottes als des Königs und gerechten Weltenrichters
 1 <em>Ein Psalm.</em>
 Singet dem HERRN ein neues Lied!
 <blockquote>
@@ -10315,9 +10313,9 @@ und die Völker nach Gebühr.
 </blockquote>
 </blockquote>
 
-Preis des heiligen Gottes, des allwaltenden Königs
 
 Kapitel 99
+0 Preis des heiligen Gottes, des allwaltenden Königs
 1 Der HERR ist König {vgl. 96,10}: es zittern die Völker;
 <blockquote>
 <blockquote>
@@ -10378,9 +10376,9 @@ denn heilig ist der HERR, unser Gott!
 </blockquote>
 </blockquote>
 
-Lobpreis Gottes beim Einzug in den Tempel
 
 Kapitel 100
+0 Lobpreis Gottes beim Einzug in den Tempel
 1 <em>Ein Psalm als Dankbezeigung {oder: bei Darbringung eines Dankopfers}</em>.
 Jauchzet dem HERRN, alle Lande,
 2 dienet dem HERRN mit Freuden,
@@ -10410,9 +10408,9 @@ und seine Treue von Geschlecht zu Geschlecht.
 </blockquote>
 </blockquote>
 
-Gelübde eines Herrschers (oder: Fürstenspiegel)
 
 Kapitel 101
+0 Gelübde eines Herrschers (oder: Fürstenspiegel)
 1 <em>Von David, ein Psalm.</em>
 Von Gnade und Recht will ich singen,
 <blockquote>
@@ -10477,9 +10475,9 @@ alle Übeltäter.
 </blockquote>
 </blockquote>
 
-Bußfertiges Gebet eines Leidenden und Bitte um Zions Wiederherstellung (Fünfter Bußpsalm)
 
 Kapitel 102
+0 Bußfertiges Gebet eines Leidenden und Bitte um Zions Wiederherstellung (Fünfter Bußpsalm)
 1 <em>Gebet eines Elenden, wenn er verzagt ist</em> {oder: sich schwach fühlt}<em> und seine Klage vor dem Herrn ausschüttet.</em>
 2 HERR, höre mein Gebet
 <blockquote>
@@ -10655,9 +10653,9 @@ und ihr Geschlecht wird fest bestehen vor dir.
 </blockquote>
 </blockquote>
 
-Lobe den Herrn, meine Seele!
 
 Kapitel 103
+0 Lobe den Herrn, meine Seele!
 1 <em>Von David.</em>
 Lobe {= preise} den HERRN, meine Seele,
 <blockquote>
@@ -10795,14 +10793,10 @@ Lobe den HERRN, meine Seele!
 </blockquote>
 </blockquote>
 
-Die Herrlichkeit Gottes in der Natur
 
 Kapitel 104
-1 Lobe {= preise} den HERRN, meine Seele!
-
-O HERR, mein Gott, wie bist du so groß!
-<blockquote>
-<blockquote>
+0 Die Herrlichkeit Gottes in der Natur
+1 Lobe {= preise} den HERRN, meine Seele! O HERR, mein Gott, wie bist du so groß!
 In Erhabenheit {oder: Majestät} und Pracht bist du gekleidet,
 </blockquote>
 </blockquote>
@@ -11016,9 +11010,9 @@ und die Gottlosen nicht mehr sein! – Lobe den HERRN, meine Seele! Halleluja!
 </blockquote>
 </blockquote>
 
-Gottes Heilstaten an Israel in der Vorzeit
 
 Kapitel 105
+0 Gottes Heilstaten an Israel in der Vorzeit
 1 Preiset den HERRN, ruft seinen Namen an,
 <blockquote>
 <blockquote>
@@ -11290,9 +11284,9 @@ und seine Gesetze bewahrten. Halleluja!
 </blockquote>
 </blockquote>
 
-Gottes Gnade und Israels Undank
 
 Kapitel 106
+0 Gottes Gnade und Israels Undank
 1 Halleluja!
 Preiset den HERRN {oder: danket dem HERRN}, denn er ist freundlich,
 <blockquote>
@@ -11595,9 +11589,9 @@ Halleluja!
 
 Fünftes Buch (Ps 107-150)
 
-Lobpreis Gottes, des Retters aus aller Not
 
 Kapitel 107
+0 Lobpreis Gottes, des Retters aus aller Not
 1 »Danket dem HERRN, denn er ist freundlich,
 <blockquote>
 <blockquote>
@@ -11858,9 +11852,9 @@ und lerne die Gnadenerweise des HERRN verstehn!
 </blockquote>
 </blockquote>
 
-Lob der Gnade Gottes und Bitte um Hilfe
 
 Kapitel 108
+0 Lob der Gnade Gottes und Bitte um Hilfe
 1 <em>Ein Lied, ein Psalm Davids.</em>
 2 Mein Herz ist getrost, o Gott:
 <blockquote>
@@ -11945,9 +11939,9 @@ und er wird unsre Bedränger zertreten.
 </blockquote>
 </blockquote>
 
-Verfluchung gottloser Feinde
 
 Kapitel 109
+0 Verfluchung gottloser Feinde
 1 <em>Dem Musikmeister; von David ein Psalm.</em>
 Du Gott, dem mein Lobpreis gilt, bleibe nicht stumm!
 2 Denn Frevlermund und Lügenmaul
@@ -12135,9 +12129,9 @@ um ihn zu retten vor denen, die ihn schuldig sprechen.
 </blockquote>
 </blockquote>
 
-Gottes Botschaft an den Priesterkönig
 
 Kapitel 110
+0 Gottes Botschaft an den Priesterkönig
 1 <em>Von David, ein Psalm.</em>
 So lautet der Ausspruch des HERRN an meinen Herrn:
 <blockquote>
@@ -12188,9 +12182,9 @@ darum wird er das Haupt hoch halten.
 </blockquote>
 </blockquote>
 
-Lobpreis der leiblichen und geistlichen Segnungen Gottes
 
 Kapitel 111
+0 Lobpreis der leiblichen und geistlichen Segnungen Gottes
 1 Halleluja!
 Preisen will ich den HERRN von ganzem Herzen
 <blockquote>
@@ -12255,9 +12249,9 @@ sein {d.h. Gottes} Ruhm besteht in Ewigkeit.
 </blockquote>
 </blockquote>
 
-Der Segen der Gottesfurcht und Barmherzigkeit
 
 Kapitel 112
+0 Der Segen der Gottesfurcht und Barmherzigkeit
 1 Halleluja!
 Wohl dem Menschen, der den HERRN fürchtet,
 <blockquote>
@@ -12322,9 +12316,9 @@ der Gottlosen Wünsche bleiben unerfüllt.
 </blockquote>
 </blockquote>
 
-Lobpreis des erhabenen und gnädigen Gottes
 
 Kapitel 113
+0 Lobpreis des erhabenen und gnädigen Gottes
 1 Halleluja!
 Lobet, ihr Knechte {= Verehrer} des HERRN,
 <blockquote>
@@ -12381,9 +12375,9 @@ macht sie zur fröhlichen Mutter von Kindern. Halleluja!
 </blockquote>
 </blockquote>
 
-Gottes Wundermacht beim Durchzug der Israeliten durch das Rote Meer und durch den Jordan
 
 Kapitel 114
+0 Gottes Wundermacht beim Durchzug der Israeliten durch das Rote Meer und durch den Jordan
 1 Halleluja!
 Als Israel aus Ägypten auszog,
 <blockquote>
@@ -12434,9 +12428,9 @@ Kieselgestein zum sprudelnden Quell!
 </blockquote>
 </blockquote>
 
-Dem lebendigen Gott gebührt allein die Ehre
 
 Kapitel 115
+0 Dem lebendigen Gott gebührt allein die Ehre
 1 Nicht uns, o HERR, nicht uns,
 <blockquote>
 <blockquote>
@@ -12549,9 +12543,9 @@ von nun an bis in Ewigkeit. Halleluja!
 </blockquote>
 </blockquote>
 
-Danklied und Gelübde eines aus Todesgefahr Geretteten (bei Darbringung des Dankopfers)
 
 Kapitel 116
+0 Danklied und Gelübde eines aus Todesgefahr Geretteten (bei Darbringung des Dankopfers)
 1 Ich liebe den HERRN, denn er hat erhört
 <blockquote>
 <blockquote>
@@ -12670,9 +12664,9 @@ in deiner Mitte, Jerusalem! Halleluja!
 </blockquote>
 </blockquote>
 
-Aufforderung an die Heiden zum Lobpreis Gottes
 
 Kapitel 117
+0 Aufforderung an die Heiden zum Lobpreis Gottes
 1 Lobet den HERRN, ihr Heiden alle!
 <blockquote>
 <blockquote>
@@ -12686,9 +12680,9 @@ und die Treue des HERRN währt ewiglich. Halleluja!
 </blockquote>
 </blockquote>
 
-Dankgebet und Siegeslied der Festgemeinde
 
 Kapitel 118
+0 Dankgebet und Siegeslied der Festgemeinde
 1 Danket dem HERRN, denn er ist freundlich,
 <blockquote>
 <blockquote>
@@ -12866,9 +12860,9 @@ ja, ewiglich währt seine Gnade.
 </blockquote>
 </blockquote>
 
-Herrlichkeit des göttlichen Wortes und Gesetzes (oder: das goldene Alphabet)
 
 Kapitel 119
+0 Herrlichkeit des göttlichen Wortes und Gesetzes (oder: das goldene Alphabet)
 1 Wohl denen, deren Wandel unsträflich ist,
 <blockquote>
 <blockquote>
@@ -13929,9 +13923,9 @@ Denn deine Gebote habe ich nicht vergessen.
 
 Die 15 Wallfahrtslieder (Psalm 120-134)
 
-Hilferuf gegen trügerische und streitsüchtige Widersacher
 
 Kapitel 120
+0 Hilferuf gegen trügerische und streitsüchtige Widersacher
 1 <em>Ein Wallfahrtslied</em> {<em>oder Stufenlied?}</em>.
 Ich rief zum HERRN in meiner Not:
 <blockquote>
@@ -13976,9 +13970,9 @@ sie gehen auf Krieg {= Streit} aus.
 </blockquote>
 </blockquote>
 
-Der treue Hüter der Menschen
 
 Kapitel 121
+0 Der treue Hüter der Menschen
 1 <em>Ein Lied für Wallfahrten</em> {<em>oder für die Stufen?</em> vgl. Ps 120}.
 Ich hebe meine Augen auf zu den Bergen:
 <blockquote>
@@ -14029,9 +14023,9 @@ von nun an bis in Ewigkeit.
 </blockquote>
 </blockquote>
 
-Segenswünsche eines Pilgers für Jerusalem
 
 Kapitel 122
+0 Segenswünsche eines Pilgers für Jerusalem
 1 <em>Ein Wallfahrtslied</em> {<em>oder Stufenlied?</em> vgl. Ps 120} <em>Davids.</em>
 Ich freute mich, als man mir sagte:
 <blockquote>
@@ -14089,9 +14083,9 @@ will ich Segen für dich erbitten.<span data-param="f319122_9A" class="fussnote"
 </blockquote>
 </blockquote>
 
-Gläubiger Aufblick zu Gott bei Schmach und Spott
 
 Kapitel 123
+0 Gläubiger Aufblick zu Gott bei Schmach und Spott
 1 <em>Ein Wallfahrtslied</em> {<em>oder Stufenlied?</em> vgl. Ps 120}.
 Zu dir erhebe ich meine Augen,
 <blockquote>
@@ -14122,9 +14116,9 @@ des Hohns der Leichtfertigen, der Verachtung der Stolzen.
 </blockquote>
 </blockquote>
 
-Israels Retter in der Not
 
 Kapitel 124
+0 Israels Retter in der Not
 1 <em>Ein Wallfahrtslied</em> {<em>oder Stufenlied?</em> vgl. Ps 120} <em>von David.</em>
 »Wäre der HERR nicht für uns gewesen«
 <blockquote>
@@ -14177,9 +14171,9 @@ der Himmel und Erde geschaffen.
 </blockquote>
 </blockquote>
 
-Gott schützt sein Volk Israel und alle Frommen
 
 Kapitel 125
+0 Gott schützt sein Volk Israel und alle Frommen
 1 <em>Ein Wallfahrtslied</em> {<em>oder Stufenlied?</em> vgl. Ps 120}.
 Die auf den HERRN vertrauen, die gleichen dem Berge Zion,
 <blockquote>
@@ -14216,9 +14210,9 @@ Heil über Israel!
 </blockquote>
 </blockquote>
 
-Trost in Tränen
 
 Kapitel 126
+0 Trost in Tränen
 1 <em>Ein Wallfahrtslied</em> {<em>oder Stufenlied?</em> vgl. Ps 120}.
 Als der HERR einst Zions Mißgeschick wandte,
 <blockquote>
@@ -14261,9 +14255,9 @@ mit Garben beladen.
 </blockquote>
 </blockquote>
 
-An Gottes Segen ist alles gelegen
 
 Kapitel 127
+0 An Gottes Segen ist alles gelegen
 1 <em>Ein Wallfahrtslied</em> {<em>oder Stufenlied?</em> vgl. Ps 120} <em>Salomos.</em>
 Wenn der HERR das Haus nicht baut,
 <blockquote>
@@ -14302,9 +14296,9 @@ mit Widersachern im Stadttor.
 </blockquote>
 </blockquote>
 
-Häusliches Glück als Segen der Gottesfurcht
 
 Kapitel 128
+0 Häusliches Glück als Segen der Gottesfurcht
 1 <em>Ein Wallfahrtslied</em> {<em>oder Stufenlied?</em> vgl. Ps 120}.
 Wohl jedem, der den HERRN fürchtet
 <blockquote>
@@ -14345,9 +14339,9 @@ Heil über Israel!
 </blockquote>
 </blockquote>
 
-Israels Drangsale und Errettung
 
 Kapitel 129
+0 Israels Drangsale und Errettung
 1 <em>Ein Wallfahrtslied</em> {<em>oder Stufenlied?</em> vgl. Ps 120}.
 »Sie haben mich hart bedrängt von meiner Jugend an«
 <blockquote>
@@ -14401,9 +14395,9 @@ Wir segnen euch im Namen des HERRN!«
 </blockquote>
 </blockquote>
 
-Aus tiefer Not (Sechster Bußpsalm)
 
 Kapitel 130
+0 Aus tiefer Not (Sechster Bußpsalm)
 1 <em>Ein Wallfahrtslied</em> {<em>oder Stufenlied?</em> vgl. Ps 120}.
 Aus der Tiefe rufe ich, HERR, zu dir:
 2 »Allherr, höre auf meine Stimme,
@@ -14451,9 +14445,9 @@ von allen seinen Sünden.<span data-param="f319130_8A" class="fussnote">A</span>
 </blockquote>
 </blockquote>
 
-Stilles Genügen (oder Ruhe in Gott)
 
 Kapitel 131
+0 Stilles Genügen (oder Ruhe in Gott)
 1 <em>Ein Wallfahrtslied</em> {<em>oder Stufenlied?</em> vgl. Ps 120} <em>Davids.</em>
 HERR, mein Herz ist nicht hochfahrend,
 <blockquote>
@@ -14477,9 +14471,9 @@ von nun an bis in Ewigkeit.
 </blockquote>
 </blockquote>
 
-Gebet für Zion im Hinblick auf Gottes Verheißung an David
 
 Kapitel 132
+0 Gebet für Zion im Hinblick auf Gottes Verheißung an David
 1 <em>Ein Wallfahrtslied</em> {<em>oder Stufenlied?</em> vgl. Ps 120}.
 Gedenke, HERR, dem David alle seine Mühsal,
 2 ihm, der dem HERRN einst zuschwor
@@ -14589,9 +14583,9 @@ doch ihm soll auf dem Haupt die Krone glänzen.«
 </blockquote>
 </blockquote>
 
-Segen der brüderlichen Eintracht
 
 Kapitel 133
+0 Segen der brüderlichen Eintracht
 1 <em>Ein Wallfahrtslied</em> {<em>oder Stufenlied?</em> vgl. Ps 120} <em>Davids.</em>
 Seht, wie schön und wie lieblich ist’s,
 <blockquote>
@@ -14616,9 +14610,9 @@ Leben bis in Ewigkeit.
 </blockquote>
 </blockquote>
 
-Lied der Tempelwächter beim Nachtgottesdienst
 
 Kapitel 134
+0 Lied der Tempelwächter beim Nachtgottesdienst
 1 <em>Ein Wallfahrtslied</em> {<em>oder Stufenlied?</em> vgl. Ps 120}.
 Wohlan, preiset den HERRN, alle ihr Diener des HERRN,
 <blockquote>
@@ -14639,9 +14633,9 @@ der Schöpfer von Himmel und Erde!
 </blockquote>
 </blockquote>
 
-Lobpreis des allein wahren Gottes
 
 Kapitel 135
+0 Lobpreis des allein wahren Gottes
 1 Halleluja!
 <blockquote>
 <blockquote>
@@ -14772,9 +14766,9 @@ er, der da wohnt in Jerusalem! Halleluja!
 </blockquote>
 </blockquote>
 
-Danklied für Gottes Wohltaten an Israel
 
 Kapitel 136
+0 Danklied für Gottes Wohltaten an Israel
 1 Danket dem HERRN, denn er ist freundlich,
 <blockquote>
 <blockquote>
@@ -14932,9 +14926,9 @@ ja, ewiglich währt seine Gnade!
 </blockquote>
 </blockquote>
 
-Klage der gefangenen Judäer an Babels Strömen
 
 Kapitel 137
+0 Klage der gefangenen Judäer an Babels Strömen
 1 An Babels Strömen, da saßen wir und weinten,
 <blockquote>
 <blockquote>
@@ -14996,9 +14990,9 @@ und am Felsen sie zerschmettert!
 </blockquote>
 </blockquote>
 
-Danklied für Gottes Güte und Treue
 
 Kapitel 138
+0 Danklied für Gottes Güte und Treue
 1 <em>Von David.</em>
 Danken will ich dir (HERR) von ganzem Herzen,
 <blockquote>
@@ -15054,9 +15048,9 @@ laß die Werke deiner Hände nicht fahren {= nicht im Stich}!
 </blockquote>
 </blockquote>
 
-Gott der Allwissende und Allgegenwärtige
 
 Kapitel 139
+0 Gott der Allwissende und Allgegenwärtige
 1 <em>Dem Musikmeister, von David ein Psalm.</em>
 HERR, du erforschest mich und kennst mich;
 2 du weißt es, ob ich sitze oder aufstehe,
@@ -15203,9 +15197,9 @@ und leite mich auf dem ewigen Wege!
 </blockquote>
 </blockquote>
 
-Gebet um Errettung von hinterlistigen Feinden
 
 Kapitel 140
+0 Gebet um Errettung von hinterlistigen Feinden
 1 <em>Dem Musikmeister, ein Psalm von David.</em>
 2 Rette mich, HERR, von den bösen Menschen!
 <blockquote>
@@ -15289,9 +15283,9 @@ die Redlichen bleiben wohnen vor deinem Angesicht.
 </blockquote>
 </blockquote>
 
-Gebet um Bewahrung vor Bösem und vor Verfolgern
 
 Kapitel 141
+0 Gebet um Bewahrung vor Bösem und vor Verfolgern
 1 <em>Ein Psalm Davids.</em>
 HERR, ich rufe dich, eile mir zu Hilfe!
 <blockquote>
@@ -15360,9 +15354,9 @@ während ich zugleich daran vorübergehe!
 </blockquote>
 </blockquote>
 
-Hilferuf in schwerer Bedrängnis
 
 Kapitel 142
+0 Hilferuf in schwerer Bedrängnis
 1 <em>Ein Lehrgedicht</em> {vgl. 32,1} <em>Davids, als er sich in der Höhle befand</em> {vgl. 57,1}, <em>ein Gebet.</em>
 2 Laut schrei’ ich zum HERRN,
 <blockquote>
@@ -15414,9 +15408,9 @@ daß du mir wohltust.<span data-param="f319142_8A" class="fussnote">A</span>
 </blockquote>
 </blockquote>
 
-Hilferuf in äußerer und innerer Not (Siebenter Bußpsalm)
 
 Kapitel 143
+0 Hilferuf in äußerer und innerer Not (Siebenter Bußpsalm)
 1 <em>Ein Psalm Davids.</em>
 HERR, höre mein Gebet,
 <blockquote>
@@ -15499,9 +15493,9 @@ ich bin ja dein Knecht!
 </blockquote>
 </blockquote>
 
-Lob- und Bittgebet; Israels Segensfülle
 
 Kapitel 144
+0 Lob- und Bittgebet; Israels Segensfülle
 1 <em>Von David.</em>
 Gepriesen sei der HERR, mein Fels,
 <blockquote>
@@ -15602,9 +15596,9 @@ Glückselig das Volk, dessen Gott der HERR ist!
 </blockquote>
 </blockquote>
 
-Loblied auf die Größe und Güte Gottes, des Erhalters und Beherrschers der Welt
 
 Kapitel 145
+0 Loblied auf die Größe und Güte Gottes, des Erhalters und Beherrschers der Welt
 1 <em>Ein Loblied von David.</em>
 Ich will dich erheben, mein Gott, du König,
 <blockquote>
@@ -15736,9 +15730,9 @@ immer und ewig!
 </blockquote>
 </blockquote>
 
-Wohl dem, der auf den Herr vertraut!
 
 Kapitel 146
+0 Wohl dem, der auf den Herr vertraut!
 1 Halleluja! Lobe den HERRN, meine Seele!
 2 Loben will ich den HERRN, solange ich lebe,
 <blockquote>
@@ -15799,9 +15793,9 @@ dein Gott, o Zion, für und für! Halleluja!
 </blockquote>
 </blockquote>
 
-Lobpreis der Allmacht, Güte und Weisheit Gottes
 
 Kapitel 147
+0 Lobpreis der Allmacht, Güte und Weisheit Gottes
 1 Preiset den HERRN! Denn schön {oder: löblich} ist’s,
 unserm Gott zu lobsingen,
 <blockquote>
@@ -15925,9 +15919,9 @@ drum kennen sie seine Rechte nicht. Halleluja!
 </blockquote>
 </blockquote>
 
-Alle Welt (= die ganze Schöpfung) lobe den Herrn!
 
 Kapitel 148
+0 Alle Welt (= die ganze Schöpfung) lobe den Herrn!
 1 Halleluja!
 Lobet den HERRN vom Himmel her,
 <blockquote>
@@ -16016,9 +16010,9 @@ für Israels Söhne {oder: Kinder}, das Volk, das am nächsten ihm steht. Hallel
 </blockquote>
 </blockquote>
 
-Israels Sieges- und Rachelied
 
 Kapitel 149
+0 Israels Sieges- und Rachelied
 1 Halleluja!
 <blockquote>
 <blockquote>
@@ -16075,9 +16069,9 @@ eine Ehre ist dies für alle seine Frommen! Halleluja!
 </blockquote>
 </blockquote>
 
-Alles, was Odem hat, lobe den Herrn!
 
 Kapitel 150
+0 Alles, was Odem hat, lobe den Herrn!
 1 Halleluja!
 Lobt Gott in seinem (himmlischen) Heiligtum,
 <blockquote>
