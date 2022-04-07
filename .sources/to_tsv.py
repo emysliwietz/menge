@@ -152,7 +152,11 @@ def parse_book(to_read):
 
         for i in range(len(new_lines)):
             new_lines[i] = (
-                new_lines[i].replace("<blockquote>", "").replace("</blockquote>", "")
+                new_lines[i]
+                .replace("<blockquote>", "")
+                .replace("</blockquote>", "")
+                .replace("<em>", "")
+                .replace("</em>", "")
             )
 
     with open(
