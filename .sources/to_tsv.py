@@ -43,33 +43,33 @@ books = {
     "Haggai": ["Hag", 37],
     "Sacharja": ["Zec", 38],
     "Maleachi": ["Mal", 39],
-    "Matthew": ["Mat", 40],
-    "Mark": ["Mark", 41],
-    "Luke": ["Luke", 42],
-    "John": ["John", 43],
-    "The Acts": ["Acts", 44],
-    "Romans": ["Rom", 45],
-    "1 Corinthians": ["1Cor", 46],
-    "2 Corinthians": ["2Cor", 47],
-    "Galatians": ["Gal", 48],
-    "Ephesians": ["Eph", 49],
-    "Philippians": ["Phi", 50],
-    "Colossians": ["Col", 51],
-    "1 Thessalonians": ["1Th", 52],
-    "2 Thessalonians": ["2Th", 53],
-    "1 Timothy": ["1Tim", 54],
-    "2 Timothy": ["2Tim", 55],
+    "Matthäus": ["Mat", 40],
+    "Markus": ["Mark", 41],
+    "Lukas": ["Luke", 42],
+    "Johannes": ["John", 43],
+    "Apostelgeschichte": ["Acts", 44],
+    "Römer": ["Rom", 45],
+    "1. Korinther": ["1Cor", 46],
+    "2. Korinther": ["2Cor", 47],
+    "Galater": ["Gal", 48],
+    "Epheser": ["Eph", 49],
+    "Philipper": ["Phi", 50],
+    "Kolosser": ["Col", 51],
+    "1. Thessalonicher": ["1Th", 52],
+    "2. Thessalonicher": ["2Th", 53],
+    "1. Timotheus": ["1Tim", 54],
+    "2. Timotheus": ["2Tim", 55],
     "Titus": ["Titus", 56],
     "Philemon": ["Phmn", 57],
-    "Hebrews": ["Heb", 58],
-    "James": ["Jas", 59],
-    "1 Peter": ["1Pet", 60],
-    "2 Peter": ["2Pet", 61],
-    "1 John": ["1Jn", 62],
-    "2 John": ["2Jn", 63],
-    "3 John": ["3Jn", 64],
-    "Jude": ["Jude", 65],
-    "Revelation": ["Rev", 66],
+    "Hebräer": ["Heb", 58],
+    "Jakobus": ["Jas", 59],
+    "1. Petrus": ["1Pet", 60],
+    "2. Petrus": ["2Pet", 61],
+    "1. Johannes": ["1Jn", 62],
+    "2. Johannes": ["2Jn", 63],
+    "3. Johannes": ["3Jn", 64],
+    "Judas": ["Jude", 65],
+    "Offenbarung": ["Rev", 66],
 }
 
 apocrypha = {
@@ -85,6 +85,14 @@ apocrypha = {
     "Gebet Manasses": ["Man", 79],
     "Zusätze Daniel": ["AddDan", 81],
 }
+
+
+def is_new_verse(curr_chapter, line):
+    try:
+        return curr_chapter != -1 and line.split(" ")[0].isdigit()
+    except:
+        print("Error at line " + line)
+        return False
 
 
 def parse_book(to_read):
@@ -107,13 +115,13 @@ def parse_book(to_read):
     new_lines = [""]
     is_text = False
 
-    with open(file_name, "r") as f:
+    with open(to_read, "r") as f:
         old_lines = f.readlines()
 
-        for line in old_lines:
+        for (index, line) in enumerate(old_lines):
             if line.startswith("Kapitel "):
                 curr_chapter = line.split("Kapitel ")[1].strip()
-            elif curr_chapter != -1 and line.split(" ")[0].isdigit():
+            elif is_new_verse(curr_chapter, line):
                 l = line.split(" ")
                 verse_num = l[0]
                 verse = " ".join(l[1:])
@@ -129,11 +137,23 @@ def parse_book(to_read):
                 last_line = new_lines.pop().replace("\r\n", " ")
                 last_line += line.replace("\n", "\r\n")
                 new_lines.append(last_line)
-                print(last_line)
+            elif (
+                int(curr_chapter) > 1
+                and not line.split(" ")[0].endswith(")")
+                and is_new_verse(curr_chapter, old_lines[index + 1])
+            ):
+                last_line = new_lines.pop().replace("\r\n", " ")
+                last_line += line.replace("\n", "\r\n")
+                new_lines.append(last_line)
             else:
+                a = line.split(" ")[0]
+                if not a.endswith(".") and not a.endswith(")"):
+                    print(line)
                 pass
 
-    with open("books/" + book_name + ".tsv", "w") as f:
+    with open(
+        os.path.join(os.path.dirname(sys.argv[0]), "books/", book_name + ".tsv"), "w"
+    ) as f:
         f.writelines(new_lines)
 
 
