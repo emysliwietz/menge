@@ -78,3 +78,4 @@ all:
 	"books/Judas.tsv" \
 	"books/Offenbarung.tsv" \
 	> menge.tsv
+	mv menge.tsv ..
