@@ -157,7 +157,14 @@ def parse_book(to_read):
                 .replace("</blockquote>", "")
                 .replace("<em>", "")
                 .replace("</em>", "")
+                .replace("<li>", "")
+                .replace("</li>", "")
+                .replace("<ul>", "")
+                .replace("</ul>", "")
+                .replace("\r\n", "\n")
+                .replace("\r", "\n")
             )
+        new_lines += "\n"
 
     with open(
         os.path.join(os.path.dirname(sys.argv[0]), "books/", book_name + ".tsv"), "w"
@@ -165,11 +172,23 @@ def parse_book(to_read):
         f.writelines(new_lines)
 
 
-if len(sys.argv) == 1:
-    print(f"Usage: {sys.argv[0]} {{source_dir}}")
-    exit()
+def parse_source(source_dir):
+    for f in sorted(os.listdir(source_dir)):
+        f = os.path.join(source_dir, f)
+        if os.path.isfile(f):
+            parse_book(f)
 
-for f in sorted(os.listdir(sys.argv[1])):
-    f = os.path.join(sys.argv[1], f)
-    if os.path.isfile(f):
-        parse_book(f)
+
+if len(sys.argv) == 1:
+    for source_dir in [
+        "Bibel.txt/Altes Testament",
+        "Bibel.txt/Apokryphen",
+        "Bibel.txt/Neues Testament",
+    ]:
+        parse_source(source_dir)
+elif len(sys.argv) == 2:
+    parse_source(sys.argv[1])
+else:
+    print(f"Usage: {sys.argv[0]} {{source_dir}}")
+    print(f"or:    {sys.argv[0]} to use Bibel.txt dirs as source")
+    exit()
